@@ -1,0 +1,567 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.8)  14 NOV 2014 09:01
+entering extended mode
+**UnicefSummaryAndRegressions.tex
+
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\UnicefSummaryAndRegressions.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen103
+\lightrulewidth=\dimen104
+\cmidrulewidth=\dimen105
+\belowrulesep=\dimen106
+\belowbottomsep=\dimen107
+\aboverulesep=\dimen108
+\abovetopsep=\dimen109
+\cmidrulesep=\dimen110
+\cmidrulekern=\dimen111
+\defaultaddspace=\dimen112
+\@cmidla=\count87
+\@cmidlb=\count88
+\@aboverulesep=\dimen113
+\@belowrulesep=\dimen114
+\@thisruleclass=\count89
+\@lastruleclass=\count90
+\@thisrulewidth=\dimen115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+\c@ContinuedFloat=\count91
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen122
+\extrarowheight=\dimen123
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+\TX@col@width=\dimen124
+\TX@old@table=\dimen125
+\TX@old@col=\dimen126
+\TX@target=\dimen127
+\TX@delta=\dimen128
+\TX@cols=\count92
+\TX@ftn=\toks17
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\underscore\underscore.sty"
+Package: underscore 2006/09/13
+LaTeX Info: Redefining \_ on input line 42.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count93
+\Gm@cntv=\count94
+\c@Gm@tempcnt=\count95
+\Gm@bindingoffset=\dimen129
+\Gm@wd@mp=\dimen130
+\Gm@odd@mp=\dimen131
+\Gm@even@mp=\dimen132
+\Gm@layoutwidth=\dimen133
+\Gm@layoutheight=\dimen134
+\Gm@layouthoffset=\dimen135
+\Gm@layoutvoffset=\dimen136
+\Gm@dimlist=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\UnicefSummaryAndRegressions.aux"
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 723.83812pt, 28.45274pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=723.83812pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\table1.tex"
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 7.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+))
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\table2.tex"
+Underfull \hbox (badness 7397) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10 Human De-vel-op-ment In-dex (HDI)
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 23--23
+[]|\OT1/cmr/m/n/10 Adolescent fer-til-ity rate (births per
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 25--25
+[]|\OT1/cmr/m/n/10 Male Pop-u-la-tion with at least sec-
+ []
+
+) [1
+
+{C:/Documents and Settings/All Users/Application Data/MiKTeX/2.9/pdftex/config/
+pdftex.map}]
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\test2.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 male[]-homi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 female[]-homi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 total[]-homi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 violent[]-dis-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 physical[]-
+ []
+
+
+Overfull \hbox (2.30573pt too wide) in paragraph at lines 10--11
+[]|\OT1/cmr/m/n/10 psychlogical[]-
+ []
+
+
+Overfull \hbox (5.85452pt too wide) in paragraph at lines 7--24
+ [][] 
+ []
+
+)
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\test8.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 physical[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 physical[]-at-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 experience[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\OT1/cmr/m/n/10 vi-o-lence[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 experience[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\OT1/cmr/m/n/10 vi-o-lence[]-fe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]|\OT1/cmr/m/n/10 male[]-sex-
+ []
+
+
+Overfull \hbox (5.85452pt too wide) in paragraph at lines 7--24
+ [][] 
+ []
+
+)
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\test14.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 female[]-sex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 male[]-part-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 female[]-part-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 male[]-at-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\OT1/cmr/m/n/10 tude[]-wife[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 female[]-at-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\OT1/cmr/m/n/10 tude[]-wife[]-
+ []
+
+
+Overfull \hbox (0.91684pt too wide) in paragraph at lines 10--11
+[]|\OT1/cmr/m/n/10 punishment[]-
+ []
+
+
+Overfull \hbox (5.85452pt too wide) in paragraph at lines 7--24
+ [][] 
+ []
+
+)
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\regioncodes.tex") [2
+
+] [3]
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\reg1.tex") [4
+
+]
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\reg4.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 physical[]-pun-ish-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]|\OT1/cmr/m/n/10 psychlogical[]-ag-
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10 3.93$[]$ (df = 13;
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10 5.38$[]$ (df = 13;
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 48--49
+[]|\OT1/cmr/m/n/10 3.66$[]$ (df = 13;
+ []
+
+) [5
+
+]
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\reg7.tex"
+Underfull \hbox (badness 1286) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10 2.70$[]$ (df = 13;
+ []
+
+)
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\reg10.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 experience[]-vi-o-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 experience[]-vi-o-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]|\OT1/cmr/m/n/10 male[]-sex-ual[]-vi-o-
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10 4.95$[]$ (df = 13;
+ []
+
+)
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\reg13.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 female[]-sex-ual[]-vi-o-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 male[]-part-ner[]-vi-o-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]|\OT1/cmr/m/n/10 female[]-part-ner[]-vi-o-
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10 4.35$[]$ (df = 13;
+ []
+
+)
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\reg16.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 male[]-at-i-tude[]-wife[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 female[]-at-ti-tude[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]|\OT1/cmr/m/n/10 punishment[]-at-ti-
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10 5.60$[]$ (df = 13;
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 48--49
+[]|\OT1/cmr/m/n/10 3.58$[]$ (df = 13;
+ []
+
+) [6
+
+] [7] [8] [9]
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\indepvarDefs.tex"
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+)
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\definitions.tex")
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\StateSummary.tex"
+Underfull \hbox (badness 5667) in paragraph at lines 18--18
+[]|\OT1/cmr/m/n/10 Labour force par-tic-i-pa-tion
+ []
+
+)
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\StateFit.tex")
+
+Package caption Warning: Unused \captionsetup[labelformat=empty] on input line 
+6.
+See the caption package documentation for explanation.
+
+[10
+
+] [11] [12]
+("C:\Documents and Settings\Ahlu\My Documents\Brookings\Violence\childhood-viol
+ence\UnicefSummaryAndRegressions.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2267 strings out of 494045
+ 37898 string characters out of 3148336
+ 154698 words of memory out of 3000000
+ 5524 multiletter control sequences out of 15000+200000
+ 6311 words of font info for 27 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 36i,11n,38p,398b,264s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmti10.pfb>
+Output written on UnicefSummaryAndRegressions.pdf (12 pages, 111661 bytes).
+PDF statistics:
+ 69 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,89 @@
+\documentclass[a4paper]{article}
+
+%%%%%%%%%%%%%%%%%%%
+% Packages/Macros %
+%%%%%%%%%%%%%%%%%%%
+\usepackage{amssymb,latexsym}     % Standard packages
+\usepackage{booktabs}
+\usepackage{caption} \captionsetup[table]{singlelinecheck=false} \captionsetup{skip=0pt}
+\usepackage{tabularx}
+\usepackage{underscore}
+\usepackage[top=2cm, bottom=1cm, left=2cm, right=2cm]{geometry}
+\begin{document}
+\begin{table}[!htbp] \centering 
+  \caption{Regression} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & crime\_rate \\ 
+\hline \\[-1.8ex] 
+ nsdp\_per\_capita\_2010 & 0.00004 \\ 
+  & (0.0001) \\ 
+  & \\ 
+ sex\_ratio\_2011 & $-$0.028 \\ 
+  & (0.043) \\ 
+  & \\ 
+ literacy\_female & 0.027 \\ 
+  & (0.329) \\ 
+  & \\ 
+ literacy\_male & 0.335 \\ 
+  & (0.424) \\ 
+  & \\ 
+ lfp\_female & 0.009 \\ 
+  & (0.035) \\ 
+  & \\ 
+ lfp\_male & $-$0.096$^{**}$ \\ 
+  & (0.039) \\ 
+  & \\ 
+ health\_exp\_per\_capita & 0.010 \\ 
+  & (0.006) \\ 
+  & \\ 
+ education\_exp\_per\_capita & $-$0.003 \\ 
+  & (0.005) \\ 
+  & \\ 
+ police\_exp\_per\_capita & $-$0.007$^{*}$ \\ 
+  & (0.003) \\ 
+  & \\ 
+ Constant & 55.797 \\ 
+  & (45.654) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 27 \\ 
+R$^{2}$ & 0.438 \\ 
+Adjusted R$^{2}$ & 0.140 \\ 
+Residual Std. Error & 5.715 (df = 17) \\ 
+F Statistic & 1.472 (df = 9; 17) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 
+ 
+
+%\input{states_sum.tex}
+%\input{state_fit.tex}
+%\input{table1.tex}
+%\input{table2.tex}
+%\clearpage
+%\input{test2.tex}
+%\input{test8.tex}
+%\input{test14.tex}
+%\input{regioncodes.tex}
+%\clearpage
+%\input{reg1.tex}
+%\clearpage
+%\input{reg4.tex}
+%\clearpage
+%\input{reg7.tex}
+%\input{reg10.tex}
+%\input{reg13.tex}
+%\input{reg16.tex}
+%\clearpage
+%\input{indepvarDefs.tex}
+%\input{definitions.tex}
+%\clearpage
+
+\end{document}
